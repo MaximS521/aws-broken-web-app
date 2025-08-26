@@ -36,9 +36,9 @@ Key AWS services involved: **CloudFormation, EC2, Security Groups, Target Groups
 
 - Deploy stack:
 ```bash
-./infra/deploy-stack.sh <stack-name>
+  ./infra/deploy-stack.sh <stack-name>
 ```
 - Verify stack health:
 ```bash
-./infra/verify.sh <stack-name>
+  ./infra/verify.sh <stack-name>
 ```
