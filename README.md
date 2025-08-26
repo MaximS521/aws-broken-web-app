@@ -32,7 +32,7 @@ Key AWS services involved: **CloudFormation, EC2, Security Groups, Target Groups
 > Region: **us-east-1**
 
 - CloudFormation Template URL:
-- https://cloud-mastery-bootcamp.s3.amazonaws.com/lab-guides/solutions-architecture/broken-web-app-challenge.json
+  - https://cloud-mastery-bootcamp.s3.amazonaws.com/lab-guides/solutions-architecture/broken-web-app-challenge.json
 
 - Deploy stack:
 ```bash
